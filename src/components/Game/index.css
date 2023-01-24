@@ -1,0 +1,6 @@
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #f0f8ff;
+  padding: 20px;
+}
